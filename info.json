@@ -1,0 +1,11 @@
+{
+    "identifier": "com.ehssy.translate.cnkiserver",
+    "version": "0.1.0",
+    "category": "translate",
+    "name": "CNKI学术翻译",
+    "summary": "这是一个CNKI学术翻译效果的测试插件",
+    "author": "ehssy",
+    "minBobVersion": "0.5.0",
+    "options": [
+    ]
+}
