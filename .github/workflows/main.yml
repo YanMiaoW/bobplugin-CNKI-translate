@@ -1,4 +1,4 @@
-name: CI
+name: release
 
 on: push
 
@@ -9,11 +9,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Run a one-line script
+      - name: zip
         run: echo "Hello, world!"
 
-      - name: Greeting
-        run: echo "Hello, world!"
-
-      - name: Another greeting
-        run: echo "Hello, world!"
