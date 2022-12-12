@@ -1,11 +1,12 @@
 {
     "identifier": "com.ehssy.translate.cnkiserver",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "category": "translate",
     "name": "CNKI学术翻译",
     "summary": "这是一个CNKI学术翻译效果的测试插件",
     "author": "ehssy",
+    "homepage": "https://github.com/YanMiaoW/bobplugin-CNKI-translate",
+    "appcast": "https://github.com/YanMiaoW/bobplugin-CNKI-translate/raw/master/appcast.json",
     "minBobVersion": "0.5.0",
-    "options": [
-    ]
+    "options": []
 }

@@ -1,0 +1,19 @@
+{
+    "identifier": "com.ehssy.translate.cnkiserver",
+    "versions": [
+        {
+            "version": "1.1.0",
+            "desc": "增加了自动检测更新",
+            "sha256": "adba73b734097f784091baea8e5889a5f788d104f97827715156f2fd598ba990",
+            "url": "https://github.com/YanMiaoW/bobplugin-CNKI-translate/releases/download/v1.10/bobplugin-CNKI-translate-v1.1.0.bobplugin",
+            "minBobVersion": "0.5.0"
+        },
+        {
+            "version": "1.0.0",
+            "desc": "初始版本",
+            "sha256": "fa4e89eeae68f57fd9d98099c7176fe2fd4915306d736a041a35a09e16c58496",
+            "url": "https://github.com/YanMiaoW/bobplugin-CNKI-translate/releases/download/v1.0.0/bobplugin-CNKI-translate-v1.0.0.bobplugin",
+            "minBobVersion": "0.5.0"
+        }
+    ]
+}
